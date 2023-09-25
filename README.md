@@ -1,8 +1,6 @@
-# Hướng dẫn cài đặt
-
-Hướng dẫn cài đật môi trường và chạy mô hình
 
 ## Cài đặt môi trường
+- Giải nén file Data.rar
 -  Sử dụng ngôn ngữ lập trình Python và môi trường Jupiter Notebook ( Google Colab hoặc Visual Studio Code)
 - Sử dụng trình quản lý [pip](https://pip.pypa.io/en/stable/) để cài đặt các thư viện
 ```bash
